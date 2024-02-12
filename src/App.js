@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is the function of Docker volume in React JS application test only.
+          This is the function of check of Travis CI.
         </p>
         <a
           className="App-link"
